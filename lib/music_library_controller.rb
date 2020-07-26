@@ -1,4 +1,4 @@
-require binding.pry
+
 
 class MusicLibraryController
 
